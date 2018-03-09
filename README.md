@@ -1,1 +1,4 @@
 # Algorithms
+## todo
+- BFS
+- DFS
