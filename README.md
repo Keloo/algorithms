@@ -2,3 +2,4 @@
 ## todo
 - BFS
 - DFS
+- KMP
