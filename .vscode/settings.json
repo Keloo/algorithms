@@ -3,6 +3,8 @@
         "ostream": "cpp",
         "array": "cpp",
         "initializer_list": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp"
     }
 }

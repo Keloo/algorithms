@@ -3,3 +3,5 @@
 - BFS
 - DFS
 - KMP
+- TRIE
+- BIT
